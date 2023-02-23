@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Robot Arm Control</string>
+    <string name="ledon_k">LED ON</string>
+    <string name="ledoff_k">LED OFF</string>
+    <string name="connect_k">CONNECT</string>
+    <string name="paired_k">SEARCH</string>
+    <string name="paired_kk">Paired:</string>
+    <string name="sb6txt_k">Grab:</string>
+    <string name="sb5txt_k">Hand Up/Down:</string>
+    <string name="sb4txt_k">Hand Rotate:</string>
+    <string name="sb3txt_k">Elbow:</string>
+    <string name="sb2txt_k">Shoulder:</string>
+    <string name="sb1txt_k">Base Rotation:</string>
+</resources>
